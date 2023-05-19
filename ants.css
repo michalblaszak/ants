@@ -1,0 +1,6 @@
+.nodrag_textbox {
+    resize: none;
+    white-space: pre;
+    overflow-wrap: normal;
+    overflow-x: scroll;
+}
